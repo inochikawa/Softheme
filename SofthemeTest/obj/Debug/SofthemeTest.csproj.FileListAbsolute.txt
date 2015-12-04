@@ -1,0 +1,6 @@
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\bin\Debug\SofthemeTest.exe.config
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\bin\Debug\SofthemeTest.exe
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\bin\Debug\SofthemeTest.pdb
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\obj\Debug\SofthemeTest.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\obj\Debug\SofthemeTest.exe
+C:\Users\Maksim\Documents\GitHub\Softheme\SofthemeTest\obj\Debug\SofthemeTest.pdb
